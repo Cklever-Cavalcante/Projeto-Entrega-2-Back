@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Remakker\\Desktop\\teste\\AtividadeModulo\\AtividadeModulo.csproj": {}
+    "C:\\Users\\Remakker\\Desktop\\Projentrega teste\\Projeto-Entrega-2-Back\\AtividadeModulo\\AtividadeModulo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Remakker\\Desktop\\teste\\AtividadeModulo\\AtividadeModulo.csproj": {
+    "C:\\Users\\Remakker\\Desktop\\Projentrega teste\\Projeto-Entrega-2-Back\\AtividadeModulo\\AtividadeModulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\teste\\AtividadeModulo\\AtividadeModulo.csproj",
+        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Projentrega teste\\Projeto-Entrega-2-Back\\AtividadeModulo\\AtividadeModulo.csproj",
         "projectName": "AtividadeModulo",
-        "projectPath": "C:\\Users\\Remakker\\Desktop\\teste\\AtividadeModulo\\AtividadeModulo.csproj",
+        "projectPath": "C:\\Users\\Remakker\\Desktop\\Projentrega teste\\Projeto-Entrega-2-Back\\AtividadeModulo\\AtividadeModulo.csproj",
         "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Remakker\\Desktop\\teste\\AtividadeModulo\\obj\\",
+        "outputPath": "C:\\Users\\Remakker\\Desktop\\Projentrega teste\\Projeto-Entrega-2-Back\\AtividadeModulo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,6 +73,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -81,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
