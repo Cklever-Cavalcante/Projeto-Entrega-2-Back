@@ -1,4 +1,4 @@
 # Projeto-Entrega-2-Back
 
-Link da hospedagem: https://atividademodulo20220125153202.azurewebsites.net/
+Link da hospedagem: http://ckleversilva-001-site1.itempurl.com/
  

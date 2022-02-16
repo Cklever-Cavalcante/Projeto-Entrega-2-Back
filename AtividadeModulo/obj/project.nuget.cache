@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qMVEPxAMWs1X9qSyL5j2+QLbeLEZfMZYjiq3JSn+YsILLsuQKg073nlrpJAM+I3HWlq7bNPPu6LDoS0AiliHA==",
+  "dgSpecHash": "6Yy/SllijXF4hgAFRjKP5GXKPl73o2B0WkQyt7ZSlBdt+tkHQ2iQqvi/+IEftR7SYgwDVe6jCHlLKMTiRXQZeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Remakker\\Desktop\\teste\\AtividadeModulo\\AtividadeModulo.csproj",
+  "projectFilePath": "C:\\Users\\Remakker\\Documents\\Atividades Praticas de Modulos - RECODE\\Projentrega teste\\Projeto-Entrega-2-Back\\AtividadeModulo\\AtivMod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Remakker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -127,7 +127,8 @@
     "C:\\Users\\Remakker\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Remakker\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Remakker\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

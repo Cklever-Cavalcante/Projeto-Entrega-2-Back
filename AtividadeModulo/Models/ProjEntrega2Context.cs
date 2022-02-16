@@ -21,7 +21,7 @@ namespace AtividadeModulo.Models
             if (!optionsBuilder.IsConfigured)
             {
 
-                optionsBuilder.UseSqlServer("Server=(local);Database=ProjEntrega2;Trusted_Connection=True");
+                optionsBuilder.UseSqlServer("Data Source=SQL5097.site4now.net,1433;Initial Catalog=db_a82f3c_projentrega2;User Id=db_a82f3c_projentrega2_admin;Password=Lacrimosa9-");
             }
         }
 
